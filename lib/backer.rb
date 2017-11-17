@@ -4,4 +4,5 @@ class Backers
   def initialize
     @name = name
     @projects = []
+  end
 end
